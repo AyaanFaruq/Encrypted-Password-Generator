@@ -1,0 +1,9 @@
+F:\ALL complete .net project\GTECH\Password Generator\iPass\bin\Release\iPass.exe.config
+F:\ALL complete .net project\GTECH\Password Generator\iPass\bin\Release\iPass.exe
+F:\ALL complete .net project\GTECH\Password Generator\iPass\bin\Release\iPass.pdb
+F:\ALL complete .net project\GTECH\Password Generator\iPass\obj\Release\ePass.csprojResolveAssemblyReference.cache
+F:\ALL complete .net project\GTECH\Password Generator\iPass\obj\Release\iPass.MainForm.resources
+F:\ALL complete .net project\GTECH\Password Generator\iPass\obj\Release\iPass.Properties.Resources.resources
+F:\ALL complete .net project\GTECH\Password Generator\iPass\obj\Release\ePass.csproj.GenerateResource.Cache
+F:\ALL complete .net project\GTECH\Password Generator\iPass\obj\Release\iPass.exe
+F:\ALL complete .net project\GTECH\Password Generator\iPass\obj\Release\iPass.pdb
